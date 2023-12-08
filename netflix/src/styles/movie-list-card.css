@@ -1,0 +1,35 @@
+.movie-list-card{
+  width: 200px;
+  height: 350px;
+  cursor: pointer;
+}
+
+.movie-list-card-photo{
+  width: 100%;
+  height: 85%;
+  
+}
+
+.movie-list-card-photo img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;  
+}
+
+.movie-list-card-infos{
+  height: 15%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.movie-list-card-title{
+  font-size: 16px;
+}
+
+.movie-list-card-note{
+  background-color: yellow;
+  border-radius: 16px;
+  font-size: 16px;
+  padding: 6px;
+}

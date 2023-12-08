@@ -1,0 +1,15 @@
+.profile-list-card{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+ padding: 20px 10px;
+
+}
+
+.profile-list-firstname{
+  height: 30px;
+}
+
+.profile-list-lastname{
+  height: 30px;
+}
